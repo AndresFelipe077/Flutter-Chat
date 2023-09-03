@@ -4,6 +4,7 @@ const Color _customColor = Color(0xFF49149F);
 
 const List<Color> _colorThemes = [
   _customColor,
+  Colors.black,
   Colors.blue,
   Colors.teal,
   Colors.green,
